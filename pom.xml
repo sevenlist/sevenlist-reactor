@@ -8,6 +8,7 @@
     <packaging>pom</packaging>
 
     <modules>
+        <module>../sevenlist-project</module>
         <module>../groovy-project</module>
         <module>../jersey-project</module>
         <module>../jax-rs-playground</module>
