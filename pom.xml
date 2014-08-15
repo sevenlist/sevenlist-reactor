@@ -15,6 +15,7 @@
         <module>../jax-rs-playground</module>
         <module>../jpa-project</module>
         <module>../jpa-playground</module>
+        <module>../spring-boot-playground</module>
         <module>../wildfly-playground</module>
     </modules>
 </project>
